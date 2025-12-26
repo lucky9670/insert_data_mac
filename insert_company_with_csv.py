@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 import psycopg2
 from psycopg2.extras import execute_values
 from psycopg2.pool import ThreadedConnectionPool
+import json
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -19,9 +20,9 @@ FIXED_POPULARITY_INDEX = 5.0
 DB_CONFIG = {
     "database": "postgres",
     "user": "postgres",
-    "password": "",
+    "password": "your-super-secret-and-long-postgres-password",
     "host": "localhost",
-    "port": 5432,
+    "port": 5433,
     "minconn": 2,
     "maxconn": 10
 }
@@ -82,31 +83,49 @@ class DatabaseManager:
             
             for company in batch:
                 values.append((
-                    USER_ID,  # user_id
-                    company.get('name', ''),
-                    company.get('domain', ''),
-                    company.get('linkedin_url', ''),
-                    company.get('headquarters', ''),
-                    company.get('location', ''),
-                    company.get('description', ''),
-                    company.get('primary_industry', ''),
-                    company.get('size', ''),
-                    company.get('revenue_range', ''),
+                    USER_ID,
+                    company['name'],
+                    company.get('description'),
+                    company.get('primary_industry'),
+                    company.get('size'),
+                    company.get('company_type'),
+                    company.get('location'),
+                    company.get('country'),
+                    company.get('domain'),
+                    company.get('linkedin_url'),
+                    company.get('revenue_range'),
                     company.get('revenue_currency', 'USD'),
-                    company.get('country', ''),
-                    company.get('company_type', ''),
+                    None,  # founded_year
+                    company.get('headquarters'),
+                    None,  # subsidiaries
+                    None,  # ceo_name
+                    None,  # research_company_icp_with_ai
+                    None,  # ai_generated_insights
+                    None,  # competitive_landscape
                     company.get('employee_count'),
-                    now,  # created_at
-                    now,  # updated_at
-                    company.get('write_idempotency_key', ''),
+                    company.get('primary_industry'),  # industry (same as primary_industry)
+                    None,  # industry_tags
+                    0,  # data_completeness_score
+                    datetime.utcnow(),  # last_updated_at
+                    None,  # batch_id
+                    company.get('llm_call_id'),  # llm_call_id
+                    'completed',  # processing_status
+                    datetime.utcnow(),  # created_at
+                    datetime.utcnow(),  # updated_at
+                    company.get('domain'),  # company_domain
+                    None,  # job_openings
+                    None,  # linkedin_highlights
+                    None,  # social_profiles
+                    None,  # competitors
+                    None,  # free_trial_available
                     None,  # company_snapshot
                     None,  # positive_news
                     None,  # core_values
                     None,  # gtm_strategy
                     None,  # revenue_model
-                    'pending',  # enrichment_status
+                    json.dumps({"enriched": True}),  # enrichment_status
                     None,  # key_people
-                    None,  # financials
+                    json.dumps({"revenue_usd_m": company.get('revenue_usd_m')}),  # financials
                     None,  # recent_news
                     None,  # tech_stack
                     None,  # contact_info
@@ -116,7 +135,7 @@ class DatabaseManager:
                     None,  # competitive_research_data
                     None,  # buyer_intent_data
                     None,  # events_data
-                    FIXED_POPULARITY_INDEX  # popularity_index
+                    FIXED_POPULARITY_INDEX,  # popularity_index
                 ))
             
             try:
@@ -131,15 +150,18 @@ class DatabaseManager:
     def _execute_batch_insert(self, values: List[Tuple]):
         """Execute batch insert"""
         query = """
-        INSERT INTO companies (
-            id, user_id, name, domain, linkedin_url, headquarters, location,
-            description, primary_industry, size, revenue_range, revenue_currency,
-            country, company_type, employee_count, created_at, updated_at,
-            write_idempotency_key, company_snapshot, positive_news, core_values, 
-            gtm_strategy, revenue_model, enrichment_status, key_people, financials, 
-            recent_news, tech_stack, contact_info, social_media, social_media_data, 
-            latest_news_data, competitive_research_data, buyer_intent_data, events_data, 
-            popularity_index
+        INSERT INTO company_master (
+            user_id, name, description, primary_industry, size, company_type,
+            location, country, domain, linkedin_url, revenue_range, revenue_currency,
+            founded_year, headquarters, subsidiaries, ceo_name, research_company_icp_with_ai,
+            ai_generated_insights, competitive_landscape, employee_count, industry,
+            industry_tags, data_completeness_score, last_updated_at, batch_id, llm_call_id,
+            processing_status, created_at, updated_at, company_domain, job_openings,
+            linkedin_highlights, social_profiles, competitors, free_trial_available,
+            company_snapshot, positive_news, core_values, gtm_strategy, revenue_model,
+            enrichment_status, key_people, financials, recent_news, tech_stack, contact_info,
+            social_media, social_media_data, latest_news_data, competitive_research_data,
+            buyer_intent_data, events_data, popularity_index
         ) VALUES %s
         ON CONFLICT (user_id, name) DO NOTHING
         """
