@@ -1,0 +1,501 @@
+Rank,Company Name,Country,Headquarters,Business Format,Retail Revenue (USD Millions),Notes
+1,Walmart,United States,Bentonville AR,Hypermarket/Supercenter,648125,World's largest retailer
+2,Amazon,United States,Seattle WA,E-commerce,251902,Leading online retailer
+3,Costco,United States,Issaquah WA,Warehouse Club,242290,Membership-based wholesale
+4,Schwarz Group (Lidl/Kaufland),Germany,Neckarsulm,Discount Store,177009,Operates Lidl and Kaufland
+5,The Home Depot,United States,Atlanta GA,Home Improvement,152669,Largest home improvement retailer
+6,The Kroger Company,United States,Cincinnati OH,Supermarket,148905,Major US grocery chain
+7,Aldi,Germany,Essen/Mülheim,Discount Store,123608,Global discount supermarket
+8,JD.com,China,Beijing,E-commerce,122884,Chinese e-commerce giant
+9,Walgreens Boots Alliance,United States,Deerfield IL,Drug Store/Pharmacy,121191,Global pharmacy chain
+10,CVS Health,United States,Woonsocket RI,Drug Store/Pharmacy,116763,US pharmacy and healthcare
+11,Target Corporation,United States,Minneapolis MN,Discount Department Store,105803,US retail corporation
+12,Ahold Delhaize,Netherlands,Zaandam,Supermarket,97837,Operates Food Lion Stop & Shop
+13,Carrefour,France,Boulogne-Billancourt,Hypermarket,90803,French multinational retailer
+14,Lowe's,United States,Mooresville NC,Home Improvement,86250,Home improvement chain
+15,Tesco,United Kingdom,Welwyn Garden City,Hypermarket,85218,British multinational
+16,Albertsons,United States,Boise ID,Supermarket,79238,US grocery company
+17,Edeka,Germany,Hamburg,Supermarket,75930,German supermarket cooperative
+18,LVMH,France,Paris,Luxury Goods,73299,Luxury conglomerate
+19,Seven & I Holdings,Japan,Tokyo,Convenience Store,72750,Operates 7-Eleven
+20,Rewe Group,Germany,Cologne,Supermarket,62735,German retail cooperative
+21,E.Leclerc,France,Ivry-sur-Seine,Hypermarket,63229,French retail cooperative
+22,Aeon,Japan,Chiba,Hypermarket,58671,Japanese retail conglomerate
+23,Publix Super Markets,United States,Lakeland FL,Supermarket,57100,Employee-owned supermarket
+24,TJX Companies,United States,Framingham MA,Apparel/Off-price,54217,Operates TJ Maxx Marshalls
+25,Loblaw Companies,Canada,Brampton ON,Hypermarket,44012,Canadian grocery retailer
+26,H-E-B (HE Butt Grocery),United States,San Antonio TX,Supermarket,43600,Texas-based supermarket
+27,Best Buy,United States,Richfield MN,Electronics,43452,Consumer electronics retailer
+28,Les Mousquetaires (Intermarche),France,Bondoufle,Supermarket,43377,French retail cooperative
+29,IKEA,Netherlands,Delft,Furniture,42960,Swedish furniture retailer
+30,Woolworths Group,Australia,Sydney,Supermarket,42005,Australian retailer
+31,Sainsbury's,United Kingdom,London,Hypermarket,40580,British supermarket chain
+32,Inditex (Zara),Spain,Arteixo,Apparel,38935,Operates Zara brand
+33,Dollar General,United States,Goodlettsville TN,Discount Store,38692,American discount retailer
+34,Coop Switzerland,Switzerland,Basel,Supermarket,36794,Swiss retail cooperative
+35,Mercadona,Spain,Valencia,Supermarket,36267,Spanish supermarket chain
+36,Auchan,France,Croix,Hypermarket,35590,French retail group
+37,Jeronimo Martins,Portugal,Lisbon,Discount Store,33780,Portuguese food retailer
+38,Asda,United Kingdom,Leeds,Supermarket,32611,British supermarket
+39,Groupe ADEO,France,Ronchin,Home Improvement,31952,Operates Leroy Merlin
+40,Reliance Retail,India,Mumbai,Supermarket,31002,Indian retail giant
+41,Migros,Switzerland,Zurich,Hypermarket,30688,Swiss retail cooperative
+42,Shein,Singapore,Singapore,E-commerce,30666,Fast fashion e-commerce
+43,Dollar Tree,United States,Chesapeake VA,Discount Store,30604,Discount variety chain
+44,Cooperative U (System U),France,Rungis,Supermarket,30360,French retail cooperative
+45,Coles Group,Australia,Melbourne,Supermarket,29061,Australian supermarket
+46,FEMSA (OXXO),Mexico,Monterrey,Convenience Store,26839,Mexican retail conglomerate
+47,CP All (7-Eleven Thailand),Thailand,Bangkok,Convenience Store,25998,Thai convenience operator
+48,EssilorLuxottica,France,Charenton-le-Pont,Eyewear,25964,Global eyewear company
+49,Alibaba Group Retail,China,Hangzhou,E-commerce/Retail,24890,Chinese tech conglomerate
+50,Metro AG,Germany,Dusseldorf,Cash & Carry,24679,German wholesale company
+51,Ceconomy (MediaMarkt),Germany,Dusseldorf,Electronics,23516,Consumer electronics
+52,AS Watson Group,Hong Kong,Hong Kong,Drug Store/Health & Beauty,23479,Health and beauty retailer
+53,Macy's,United States,New York NY,Department Store,23092,American department store
+54,H&M,Sweden,Stockholm,Apparel,22621,Swedish clothing retailer
+55,Empire Company (Sobeys),Canada,Stellarton NS,Supermarket,22400,Canadian food retailer
+56,Nike Direct,United States,Beaverton OR,Apparel/Footwear,22351,Sportswear direct sales
+57,Wesfarmers (Bunnings/Kmart),Australia,Perth,Diversified Retail,22288,Australian conglomerate
+58,Meijer,United States,Grand Rapids MI,Hypermarket,21950,Midwest US supercenter
+59,Coupang,South Korea,Seoul,E-commerce,21223,Korean e-commerce
+60,Ross Stores,United States,Dublin CA,Apparel/Off-price,20377,Off-price retail chain
+61,BJ's Wholesale Club,United States,Westborough MA,Warehouse Club,19969,Membership warehouse
+62,Conad,Italy,Bologna,Supermarket,19866,Italian retail cooperative
+63,Berkshire Hathaway Retail,United States,Omaha NE,Diversified,19408,Warren Buffett's retail holdings
+64,Fast Retailing (Uniqlo),Japan,Yamaguchi,Apparel,18964,Japanese clothing retailer
+65,Wm Morrison Supermarkets,United Kingdom,Bradford,Supermarket,18776,British supermarket
+66,Alimentation Couche-Tard (Circle K),Canada,Laval QC,Convenience Store,17536,Global convenience operator
+67,AutoZone,United States,Memphis TN,Auto Parts,17457,Auto parts retailer
+68,Decathlon,France,Villeneuve-d'Ascq,Sporting Goods,12993,Sports equipment retailer
+69,Kering (Gucci),France,Paris,Luxury Goods,17047,Luxury fashion group
+70,E-Mart,South Korea,Seoul,Supermarket,17017,Korean hypermarket chain
+71,Cencosud,Chile,Santiago,Supermarket/Department,16768,South American retailer
+72,Richemont,Switzerland,Bellevue,Luxury Goods,16662,Luxury goods conglomerate
+73,Kohl's,United States,Menomonee Falls WI,Department Store,16586,American department store
+74,Marks & Spencer,United Kingdom,London,Department Store,16541,British multinational
+75,Kingfisher (B&Q),United Kingdom,London,Home Improvement,16472,European DIY retailer
+76,Coop Italia,Italy,Casalecchio di Reno,Hypermarket,16334,Italian retail cooperative
+77,Spar Holding,Switzerland,Gossau,Supermarket,16330,International retail chain
+78,O'Reilly Automotive,United States,Springfield MO,Auto Parts,15812,Auto parts retailer
+79,S Group,Finland,Helsinki,Supermarket,15681,Finnish retail cooperative
+80,Chedraui,Mexico,Xalapa,Supermarket,15407,Mexican supermarket chain
+81,Rossmann,Germany,Burgwedel,Drug Store,15341,German drug store chain
+82,Metro Inc.,Canada,Montreal QC,Supermarket,15259,Canadian grocer
+83,Avolta (formerly Dufry),Switzerland,Basel,Travel Retail,14949,Travel retail company
+84,Gap Inc.,United States,San Francisco CA,Apparel,14889,American clothing retailer
+85,Vipshop,China,Guangzhou,E-commerce,14875,Chinese online discount
+86,Otto Group,Germany,Hamburg,E-commerce/Catalog,14657,German retail group
+87,Tractor Supply Company,United States,Brentwood TN,Farm & Ranch,14556,Rural lifestyle retailer
+88,Genuine Parts Company (NAPA),United States,Atlanta GA,Auto Parts,14247,Auto parts distributor
+89,Nordstrom,United States,Seattle WA,Department Store,14219,Upscale department store
+90,ICA Gruppen,Sweden,Solna,Supermarket,14188,Swedish retail group
+91,Chow Tai Fook,Hong Kong,Hong Kong,Jewelry,13891,Chinese jewelry retailer
+92,Assai Atacadista,Brazil,Sao Paulo,Cash & Carry,13701,Brazilian wholesale
+93,John Lewis Partnership,United Kingdom,London,Department Store/Grocery,13684,British retail group
+94,Hermes,France,Paris,Luxury Goods,13485,French luxury brand
+95,El Corte Ingles,Spain,Madrid,Department Store,13372,Spanish department store
+96,Menards,United States,Eau Claire WI,Home Improvement,13240,Midwest home improvement
+97,Shoprite Holdings,South Africa,Cape Town,Supermarket,13225,African supermarket chain
+98,JD Sports,United Kingdom,Bury,Apparel/Footwear,13080,Sports fashion retailer
+99,Hy-Vee,United States,West Des Moines IA,Supermarket,13000,Midwest US supermarket
+100,Dick's Sporting Goods,United States,Coraopolis PA,Sporting Goods,12984,Sports equipment retailer
+101,Action,Netherlands,Zwaagdijk,Discount Store,11220,European discount retailer
+102,dm-drogerie markt,Germany,Karlsruhe,Drug Store,16850,German drug store chain
+103,Colruyt Group,Belgium,Halle,Supermarket,11500,Belgian retail group
+104,Zalando,Germany,Berlin,E-commerce Fashion,10660,European online fashion
+105,Delhaize Le Lion,Belgium,Brussels,Supermarket,10500,Belgian supermarket
+106,Esselunga,Italy,Milan,Supermarket,10200,Italian supermarket
+107,Muller,Germany,Ulm,Drug Store/Variety,10000,German retail chain
+108,Woolworths Holdings,South Africa,Cape Town,Department Store/Food,9800,South African retailer
+109,Eurospin,Italy,San Martino Buon Albergo,Discount Store,9700,Italian discount chain
+110,Pepco Group,Poland,Poznan,Discount Store,9500,European variety retailer
+111,Lotte Shopping,South Korea,Seoul,Department Store,9200,Korean retail conglomerate
+112,FamilyMart,Japan,Tokyo,Convenience Store,9100,Japanese convenience chain
+113,X5 Retail Group,Russia,Moscow,Supermarket,9000,Russian food retailer
+114,Magnit,Russia,Krasnodar,Supermarket,8900,Russian retail chain
+115,Sephora (LVMH),France,Paris,Beauty,15500,Beauty retailer
+116,Lawson,Japan,Tokyo,Convenience Store,8500,Japanese convenience chain
+117,Ulta Beauty,United States,Bolingbrook IL,Beauty,8300,US beauty retailer
+118,WinCo Foods,United States,Boise ID,Supermarket,8200,Employee-owned grocer
+119,Stater Bros.,United States,San Bernardino CA,Supermarket,8000,California supermarket
+120,Giant Eagle,United States,Pittsburgh PA,Supermarket,7900,Regional US grocer
+121,Wegmans,United States,Rochester NY,Supermarket,7800,Northeast US supermarket
+122,Burlington Stores,United States,Burlington NJ,Apparel/Off-price,7700,Off-price retailer
+123,Williams-Sonoma,United States,San Francisco CA,Home Goods,7600,Home products retailer
+124,Belk,United States,Charlotte NC,Department Store,7500,Department store chain
+125,Dillard's,United States,Little Rock AR,Department Store,7400,Department store chain
+126,Five Below,United States,Philadelphia PA,Discount Store,7300,Teen discount retailer
+127,Bath & Body Works,United States,Columbus OH,Beauty/Personal Care,7200,Personal care retailer
+128,Big Lots,United States,Columbus OH,Discount Store,7100,Discount retailer
+129,Casey's General Stores,United States,Ankeny IA,Convenience Store,7000,Midwest convenience chain
+130,Academy Sports + Outdoors,United States,Katy TX,Sporting Goods,6900,Sports retailer
+131,Floor & Decor,United States,Atlanta GA,Home Improvement,6800,Flooring retailer
+132,Advance Auto Parts,United States,Raleigh NC,Auto Parts,6700,Auto parts retailer
+133,Sally Beauty Holdings,United States,Denton TX,Beauty Supply,6600,Beauty supply retailer
+134,Darden Restaurants,United States,Orlando FL,Restaurant,6500,Restaurant operator (retail)
+135,Southeastern Grocers,United States,Jacksonville FL,Supermarket,6400,Regional supermarket
+136,Sprouts Farmers Market,United States,Phoenix AZ,Supermarket,6300,Organic grocery chain
+137,Wawa,United States,Wawa PA,Convenience Store,6200,East Coast convenience
+138,QuikTrip,United States,Tulsa OK,Convenience Store,6100,Convenience chain
+139,Sheetz,United States,Altoona PA,Convenience Store,6000,Convenience chain
+140,Pilot Flying J,United States,Knoxville TN,Convenience Store,5900,Travel center operator
+141,Love's Travel Stops,United States,Oklahoma City OK,Convenience Store,5800,Travel stop chain
+142,RaceTrac,United States,Atlanta GA,Convenience Store,5700,Southeast convenience
+143,Kum & Go,United States,Des Moines IA,Convenience Store,5600,Midwest convenience
+144,Stewart's Shops,United States,Saratoga Springs NY,Convenience Store,5500,Northeast convenience
+145,Kwik Trip,United States,La Crosse WI,Convenience Store,5400,Midwest convenience chain
+146,Weis Markets,United States,Sunbury PA,Supermarket,5300,Mid-Atlantic grocer
+147,Ingles Markets,United States,Asheville NC,Supermarket,5200,Southeast supermarket
+148,SpartanNash,United States,Grand Rapids MI,Supermarket/Distribution,5100,Food distributor/retailer
+149,Associated Wholesale Grocers,United States,Kansas City KS,Wholesale/Retail,5000,Retailer-owned cooperative
+150,Brookshire Grocery,United States,Tyler TX,Supermarket,4900,Texas/Louisiana grocer
+151,Bashas',United States,Chandler AZ,Supermarket,4800,Arizona supermarket
+152,Raley's,United States,West Sacramento CA,Supermarket,4700,California supermarket
+153,Grocery Outlet,United States,Emeryville CA,Discount Grocery,4600,Discount grocer
+154,Smart & Final,United States,Commerce CA,Warehouse Store,4500,Club store/grocery
+155,Save Mart Supermarkets,United States,Modesto CA,Supermarket,4400,California supermarket
+156,Price Chopper/Market 32,United States,Schenectady NY,Supermarket,4300,Northeast supermarket
+157,Hannaford,United States,Scarborough ME,Supermarket,4200,New England supermarket
+158,Food Lion,United States,Salisbury NC,Supermarket,4100,Southeast supermarket
+159,Stop & Shop,United States,Quincy MA,Supermarket,4000,Northeast supermarket
+160,Giant Food Stores,United States,Carlisle PA,Supermarket,3900,Mid-Atlantic supermarket
+161,ShopRite (Wakefern),United States,Keasbey NJ,Supermarket,3800,Retailer cooperative
+162,Rite Aid,United States,Philadelphia PA,Drug Store,3700,Pharmacy chain
+163,Petco,United States,San Diego CA,Pet Supplies,3600,Pet specialty retailer
+164,PetSmart,United States,Phoenix AZ,Pet Supplies,3500,Pet specialty retailer
+165,GameStop,United States,Grapevine TX,Video Games/Electronics,3400,Video game retailer
+166,Foot Locker,United States,New York NY,Apparel/Footwear,3300,Athletic footwear retailer
+167,Bed Bath & Beyond,United States,Union NJ,Home Goods,3200,Home goods retailer (Note: Filed bankruptcy 2023)
+168,Lululemon Athletica,Canada,Vancouver BC,Apparel,3100,Athletic apparel
+169,Victoria's Secret,United States,Columbus OH,Apparel,3000,Lingerie retailer
+170,Urban Outfitters,United States,Philadelphia PA,Apparel/Home,2900,Lifestyle retailer
+171,Abercrombie & Fitch,United States,New Albany OH,Apparel,2800,Clothing retailer
+172,American Eagle Outfitters,United States,Pittsburgh PA,Apparel,2700,Teen apparel retailer
+173,Express,United States,Columbus OH,Apparel,2600,Fashion retailer
+174,Chico's FAS,United States,Fort Myers FL,Apparel,2500,Women's apparel
+175,Ascena Retail Group,United States,Mahwah NJ,Apparel,2400,Women's apparel group
+176,Carter's,United States,Atlanta GA,Apparel (Children's),2300,Children's apparel
+177,Children's Place,United States,Secaucus NJ,Apparel (Children's),2200,Children's clothing
+178,Signet Jewelers,Bermuda,Hamilton,Jewelry,2100,Jewelry retailer
+179,Tiffany & Co.,United States,New York NY,Jewelry/Luxury,2000,Luxury jewelry (LVMH owned)
+180,Williams Companies Retail,United States,Multiple,Various,1900,Various retail operations
+181,Bloomingdale's (Macy's),United States,New York NY,Department Store,1800,Upscale department store
+182,Neiman Marcus,United States,Dallas TX,Department Store,1700,Luxury department store
+183,Saks Fifth Avenue,United States,New York NY,Department Store,1600,Luxury department store
+184,Lord & Taylor,United States,New York NY,Department Store,1500,Department store (reduced operations)
+185,JCPenney,United States,Plano TX,Department Store,1400,Department store chain
+186,Stage Stores,United States,Houston TX,Department Store,1300,Regional department store
+187,Von Maur,United States,Davenport IA,Department Store,1200,Regional department store
+188,Boscov's,United States,Reading PA,Department Store,1100,Regional department store
+189,Gottschalks,United States,Fresno CA,Department Store,1000,Regional department store (closed)
+190,Primark,Ireland,Dublin,Apparel,9500,Value fashion retailer
+191,Casino Group,France,Saint-Etienne,Hypermarket/Convenience,38430,French retail group
+192,Carrefour Brasil,Brazil,Sao Paulo,Hypermarket,10000,Brazilian Carrefour operations
+193,GPA (Grupo Pao de Acucar),Brazil,Sao Paulo,Supermarket,8500,Brazilian retailer
+194,SMU (Unimarc),Chile,Santiago,Supermarket,4500,Chilean supermarket
+195,Falabella,Chile,Santiago,Department Store/Home,7000,South American retailer
+196,Ripley,Chile,Santiago,Department Store,3500,Chilean department store
+197,Liverpool,Mexico,Mexico City,Department Store,8000,Mexican department store
+198,Palacio de Hierro,Mexico,Mexico City,Department Store,2500,Mexican luxury department
+199,Soriana,Mexico,Monterrey,Supermarket,6000,Mexican supermarket
+200,Comercial Mexicana,Mexico,Mexico City,Supermarket,4000,Mexican supermarket
+201,Worten,Portugal,Lisbon,Electronics,1800,Portuguese electronics
+202,Fnac Darty,France,Ivry-sur-Seine,Electronics/Media,8000,Electronics/media retailer
+203,MediaMarkt,Germany,Ingolstadt,Electronics,7500,Electronics retailer
+204,Saturn,Germany,Ingolstadt,Electronics,4500,Electronics retailer
+205,Currys,United Kingdom,London,Electronics,6000,British electronics
+206,Euronics International,Netherlands,Amsterdam,Electronics,14400,Electronics cooperative
+207,Expert (Electronics),Switzerland,Various,Electronics,8770,Electronics cooperative
+208,Boulanger,France,Lille,Electronics,3500,French electronics
+209,Darty,France,Paris,Electronics,4000,French electronics (Fnac)
+210,Elkjop (Dixons Carphone),Norway,Oslo,Electronics,5500,Nordic electronics
+211,Power (Coop),Norway,Bergen,Electronics,2500,Norwegian electronics
+212,Gigantti,Finland,Helsinki,Electronics,1500,Finnish electronics
+213,Elgiganten,Sweden,Stockholm,Electronics,2000,Swedish electronics
+214,NetOnNet,Sweden,Boras,Electronics,1000,Swedish online electronics
+215,Komplett,Norway,Sandefjord,Electronics (Online),800,Nordic online electronics
+216,Verkkokauppa.com,Finland,Helsinki,Electronics (Online),700,Finnish online retailer
+217,Matsmart/Motatos,Sweden,Stockholm,E-commerce (Grocery),500,Food surplus retailer
+218,Picnic,Netherlands,Amsterdam,E-commerce (Grocery),1500,Online grocery
+219,Getir,Turkey,Istanbul,E-commerce (Quick Commerce),2000,Quick commerce
+220,Gorillas,Germany,Berlin,E-commerce (Quick Commerce),1000,Quick commerce (acquired)
+221,Flink,Germany,Berlin,E-commerce (Quick Commerce),800,Quick commerce
+222,Gopuff,United States,Philadelphia PA,E-commerce (Quick Commerce),1200,Quick commerce
+223,DoorDash Retail,United States,San Francisco CA,E-commerce (Delivery),3000,Delivery/retail
+224,Instacart,United States,San Francisco CA,E-commerce (Grocery),2500,Grocery delivery platform
+225,Ocado,United Kingdom,Hatfield,E-commerce (Grocery),2800,Online grocery/tech
+226,HelloFresh,Germany,Berlin,E-commerce (Meal Kits),7600,Meal kit delivery
+227,Blue Apron,United States,New York NY,E-commerce (Meal Kits),500,Meal kit delivery
+228,Chewy,United States,Dania Beach FL,E-commerce (Pet),8900,Online pet retailer
+229,Wayfair,United States,Boston MA,E-commerce (Home),12000,Online home goods
+230,Overstock.com,United States,Midvale UT,E-commerce,2000,Online discount retailer
+231,Etsy,United States,Brooklyn NY,E-commerce (Marketplace),2600,Handmade/vintage marketplace
+232,eBay,United States,San Jose CA,E-commerce (Marketplace),10000,Online marketplace
+233,Rakuten,Japan,Tokyo,E-commerce,15000,Japanese e-commerce
+234,MercadoLibre,Argentina,Buenos Aires,E-commerce,12000,Latin American e-commerce
+235,Pinduoduo,China,Shanghai,E-commerce,15000,Chinese e-commerce
+236,Suning.com,China,Nanjing,Electronics/E-commerce,12000,Chinese electronics
+237,Gome Retail,China,Beijing,Electronics,8000,Chinese electronics
+238,Sun Art Retail,China,Shanghai,Hypermarket,15000,Chinese hypermarket (Alibaba)
+239,Yonghui Superstores,China,Fuzhou,Supermarket,10000,Chinese supermarket
+240,CR Vanguard,China,Shenzhen,Supermarket,8000,Chinese supermarket
+241,Better Life Commercial,China,Changsha,Supermarket,5000,Chinese supermarket
+242,Lianhua Supermarket,China,Shanghai,Supermarket,4000,Chinese supermarket chain
+243,RT-Mart,Taiwan,Taipei,Hypermarket,6000,Taiwan hypermarket
+244,PX Mart,Taiwan,Taipei,Supermarket,5000,Taiwan supermarket
+245,Carrefour Taiwan,Taiwan,Taipei,Hypermarket,3500,Taiwan Carrefour
+246,A.S. Watson Taiwan,Taiwan,Taipei,Drug Store/Beauty,2000,Taiwan health/beauty
+247,Poya,Taiwan,Taichung,Variety Store,1500,Taiwan variety retailer
+248,President Chain Store (7-Eleven Taiwan),Taiwan,Taipei,Convenience Store,8000,Taiwan 7-Eleven operator
+249,Uni-President,Taiwan,Tainan,Diversified Retail,10000,Taiwan conglomerate
+250,Far Eastern Retail,Taiwan,Taipei,Department Store,3000,Taiwan retail group
+251,AEON Mall,Japan,Chiba,Shopping Mall/Retail,4000,Japanese mall operator
+252,Don Quijote (Pan Pacific),Japan,Tokyo,Discount Store,12000,Japanese discount chain
+253,Sundrug,Japan,Tokyo,Drug Store,6000,Japanese drug store
+254,Matsumotokiyoshi,Japan,Matsudo,Drug Store,5500,Japanese drug store
+255,Welcia Holdings,Japan,Tokyo,Drug Store,8000,Japanese drug store chain
+256,Sugi Holdings,Japan,Obu,Drug Store,4500,Japanese drug store
+257,Cosmos Pharmaceutical,Japan,Fukuoka,Drug Store,4000,Japanese drug store
+258,MiniStop,Japan,Tokyo,Convenience Store,3000,Japanese convenience
+259,Daily Yamazaki,Japan,Tokyo,Convenience Store,2000,Japanese convenience
+260,Seiyu,Japan,Tokyo,Supermarket,8000,Japanese supermarket (Walmart sold)
+261,Life Corporation,Japan,Osaka,Supermarket,5000,Japanese supermarket
+262,Valor Holdings,Japan,Tajimi,Supermarket,4000,Japanese supermarket
+263,Arcs,Japan,Sapporo,Supermarket,3500,Japanese supermarket
+264,Izumi,Japan,Hiroshima,Supermarket,3000,Japanese supermarket
+265,Yaoko,Japan,Kawagoe,Supermarket,2500,Japanese supermarket
+266,Belc,Japan,Saitama,Supermarket,2000,Japanese supermarket
+267,Seicomart,Japan,Sapporo,Convenience Store,1500,Japanese convenience
+268,A-MART,India,Various,Hypermarket,1000,Indian hypermarket
+269,DMart (Avenue Supermarts),India,Mumbai,Discount Store,4500,Indian discount retailer
+270,Big Bazaar (Future Retail),India,Mumbai,Hypermarket,3000,Indian hypermarket (restructured)
+271,Spencer's Retail,India,Kolkata,Supermarket,1500,Indian supermarket
+272,More Retail,India,Bangalore,Supermarket,1200,Indian supermarket
+273,Star Bazaar (Tata),India,Mumbai,Hypermarket,1000,Indian hypermarket
+274,Spar India,India,Bangalore,Hypermarket,800,Indian Spar stores
+275,Metro Cash & Carry India,India,Bangalore,Cash & Carry,700,Indian wholesale
+276,Lifestyle International,India,Bangalore,Department Store,1500,Indian department store
+277,Shoppers Stop,India,Mumbai,Department Store,1200,Indian department store
+278,Westside (Tata),India,Mumbai,Apparel,1000,Indian apparel
+279,Pantaloons,India,Mumbai,Apparel,900,Indian apparel
+280,V-Mart,India,Gurgaon,Value Retail,600,Indian value retailer
+281,Vishal Mega Mart,India,Kolkata,Discount Store,800,Indian discount
+282,Lotte Mart,South Korea,Seoul,Hypermarket,4000,Korean hypermarket
+283,Homeplus,South Korea,Seoul,Hypermarket,6000,Korean hypermarket
+284,GS Retail,South Korea,Seoul,Convenience Store,7000,Korean convenience
+285,CU (BGF Retail),South Korea,Seoul,Convenience Store,6500,Korean convenience
+286,Lotte Duty Free,South Korea,Seoul,Duty Free,4000,Korean duty free
+287,Shinsegae,South Korea,Seoul,Department Store,8000,Korean department store
+288,Hyundai Department Store,South Korea,Seoul,Department Store,4000,Korean department store
+289,Galleria,South Korea,Seoul,Department Store,2000,Korean luxury department
+290,AK Plaza,South Korea,Seoul,Department Store,1500,Korean department store
+291,SSG.COM,South Korea,Seoul,E-commerce,3000,Korean e-commerce
+292,Market Kurly,South Korea,Seoul,E-commerce (Grocery),2000,Korean grocery e-commerce
+293,11Street,South Korea,Seoul,E-commerce,2500,Korean e-commerce
+294,G Market,South Korea,Seoul,E-commerce,2000,Korean e-commerce (eBay Korea)
+295,WeMakePrice,South Korea,Seoul,E-commerce,1500,Korean e-commerce
+296,TMON,South Korea,Seoul,E-commerce,1000,Korean e-commerce
+297,Olive Young,South Korea,Seoul,Health & Beauty,3000,Korean beauty retailer
+298,Lohbs,South Korea,Seoul,Health & Beauty,500,Korean beauty retailer
+299,Emart24,South Korea,Seoul,Convenience Store,2000,Korean convenience
+300,StoryWay,South Korea,Seoul,Convenience Store,500,Korean convenience
+301,Pick n Pay,South Africa,Cape Town,Supermarket,6000,South African retailer
+302,Checkers (Shoprite),South Africa,Cape Town,Supermarket,4000,South African supermarket
+303,Spar South Africa,South Africa,Durban,Supermarket,5000,South African Spar
+304,Woolworths South Africa,South Africa,Cape Town,Department Store/Food,3500,South African retailer
+305,Mr Price,South Africa,Durban,Apparel,2500,South African fashion
+306,Foschini Group,South Africa,Cape Town,Apparel,3000,South African fashion
+307,Truworths,South Africa,Cape Town,Apparel,2000,South African fashion
+308,Massmart (Walmart),South Africa,Johannesburg,Wholesale/Retail,4500,South African wholesale
+309,Game (Massmart),South Africa,Johannesburg,Discount Store,1500,South African discount
+310,Makro (Massmart),South Africa,Johannesburg,Cash & Carry,2000,South African wholesale
+311,Dis-Chem,South Africa,Johannesburg,Pharmacy,2500,South African pharmacy
+312,Clicks,South Africa,Cape Town,Pharmacy,3000,South African pharmacy
+313,BIM,Turkey,Istanbul,Discount Store,12000,Turkish discount retailer
+314,A101,Turkey,Istanbul,Discount Store,8000,Turkish discount
+315,Sok,Turkey,Istanbul,Discount Store,6000,Turkish discount
+316,Migros Turkey,Turkey,Istanbul,Supermarket,5000,Turkish supermarket
+317,CarrefourSA,Turkey,Istanbul,Hypermarket,4000,Turkish Carrefour
+318,LC Waikiki,Turkey,Istanbul,Apparel,3500,Turkish fashion retailer
+319,Defacto,Turkey,Istanbul,Apparel,1500,Turkish fashion
+320,Koton,Turkey,Istanbul,Apparel,1200,Turkish fashion
+321,Hepsiburada,Turkey,Istanbul,E-commerce,2000,Turkish e-commerce
+322,Trendyol,Turkey,Istanbul,E-commerce,4000,Turkish e-commerce
+323,n11.com,Turkey,Istanbul,E-commerce,1000,Turkish e-commerce
+324,Lulu Group,UAE,Abu Dhabi,Hypermarket,8000,Middle East retailer
+325,Majid Al Futtaim Retail,UAE,Dubai,Hypermarket/Mall,7000,Middle East Carrefour operator
+326,Al Futtaim Retail,UAE,Dubai,Diversified Retail,3000,Middle East retailer
+327,Landmark Group,UAE,Dubai,Department Store/Fashion,15760,Middle East conglomerate
+328,Chalhoub Group,UAE,Dubai,Luxury Retail,4000,Middle East luxury
+329,Apparel Group,UAE,Dubai,Fashion Retail,3000,Middle East fashion
+330,Al Tayer Group,UAE,Dubai,Luxury/Fashion,2500,Middle East luxury
+331,BinDawood Holding,Saudi Arabia,Jeddah,Supermarket,3000,Saudi supermarket
+332,Panda Retail,Saudi Arabia,Riyadh,Supermarket,2500,Saudi supermarket
+333,Al Othaim Markets,Saudi Arabia,Riyadh,Supermarket,2000,Saudi supermarket
+334,Tamimi Markets,Saudi Arabia,Dammam,Supermarket,1500,Saudi supermarket
+335,Jarir Bookstore,Saudi Arabia,Riyadh,Books/Electronics,2000,Saudi retailer
+336,Extra (United Electronics),Saudi Arabia,Riyadh,Electronics,1500,Saudi electronics
+337,Al Meera,Qatar,Doha,Supermarket,1200,Qatar supermarket
+338,Spinneys,UAE,Dubai,Supermarket,1000,Middle East supermarket
+339,Choithrams,UAE,Dubai,Supermarket,800,Middle East supermarket
+340,Union Coop,UAE,Dubai,Supermarket,1500,UAE cooperative
+341,Aswaaq,UAE,Dubai,Supermarket,500,UAE supermarket
+342,Kibsons,UAE,Dubai,E-commerce (Grocery),300,UAE online grocer
+343,InstaShop,UAE,Dubai,E-commerce (Grocery),200,UAE quick commerce
+344,Talabat,UAE,Dubai,E-commerce (Delivery),1000,Middle East delivery
+345,Carrefour Middle East,UAE,Dubai,Hypermarket,5000,Middle East Carrefour
+346,Central Group,Thailand,Bangkok,Department Store,10000,Thai retail conglomerate
+347,Big C,Thailand,Bangkok,Hypermarket,4000,Thai hypermarket
+348,Makro Thailand,Thailand,Bangkok,Cash & Carry,3000,Thai wholesale
+349,Lotus's (formerly Tesco),Thailand,Bangkok,Hypermarket,5000,Thai hypermarket
+350,The Mall Group,Thailand,Bangkok,Department Store,3500,Thai department stores
+351,Robinson,Thailand,Bangkok,Department Store,2000,Thai department store
+352,Index Living Mall,Thailand,Bangkok,Home Goods,1000,Thai home retailer
+353,Homepro,Thailand,Bangkok,Home Improvement,1500,Thai DIY retailer
+354,Watson Thailand,Thailand,Bangkok,Health & Beauty,800,Thai health/beauty
+355,Boots Thailand,Thailand,Bangkok,Pharmacy,500,Thai pharmacy
+356,King Power,Thailand,Bangkok,Duty Free,3000,Thai duty free
+357,Eveandboy,Thailand,Bangkok,Beauty,400,Thai beauty retailer
+358,Moxy,Thailand,Bangkok,Fashion,300,Thai fashion
+359,Supersports,Thailand,Bangkok,Sporting Goods,500,Thai sports retailer
+360,B2S,Thailand,Bangkok,Books/Stationery,400,Thai bookstore
+361,SM Retail,Philippines,Pasay City,Department Store/Supermarket,8000,Philippine retail giant
+362,Puregold,Philippines,Mandaluyong,Supermarket,3000,Philippine supermarket
+363,Robinsons Retail,Philippines,Pasig City,Supermarket/Department,4000,Philippine retailer
+364,Rustan's,Philippines,Makati City,Department Store,1000,Philippine department store
+365,Mercury Drug,Philippines,Quezon City,Pharmacy,4000,Philippine pharmacy
+366,Watsons Philippines,Philippines,Taguig,Health & Beauty,1000,Philippine health/beauty
+367,Ace Hardware Philippines,Philippines,Quezon City,Home Improvement,800,Philippine hardware
+368,Wilcon Depot,Philippines,Quezon City,Home Improvement,1200,Philippine home improvement
+369,AllHome,Philippines,Pasay City,Home Improvement,500,Philippine home store
+370,The Landmark,Philippines,Makati City,Department Store,400,Philippine department store
+371,PT Matahari,Indonesia,Jakarta,Department Store,2500,Indonesian department store
+372,Alfamart,Indonesia,Tangerang,Convenience Store,6000,Indonesian convenience
+373,Indomaret,Indonesia,Jakarta,Convenience Store,7000,Indonesian convenience
+374,Hero Supermarket,Indonesia,Jakarta,Supermarket,1500,Indonesian supermarket
+375,Hypermart,Indonesia,Jakarta,Hypermarket,2000,Indonesian hypermarket
+376,Transmart,Indonesia,Jakarta,Hypermarket,1500,Indonesian hypermarket
+377,Ranch Market,Indonesia,Jakarta,Supermarket,500,Indonesian premium grocery
+378,Farmers Market,Indonesia,Jakarta,Supermarket,400,Indonesian supermarket
+379,Super Indo,Indonesia,Jakarta,Supermarket,1200,Indonesian supermarket
+380,Lion Super Indo,Indonesia,Jakarta,Supermarket,800,Indonesian supermarket
+381,Dairy Farm Group,Hong Kong,Hong Kong,Diversified Retail,12000,Asian retail conglomerate
+382,ParknShop,Hong Kong,Hong Kong,Supermarket,3000,Hong Kong supermarket
+383,Wellcome,Hong Kong,Hong Kong,Supermarket,2500,Hong Kong supermarket
+384,Mannings,Hong Kong,Hong Kong,Health & Beauty,1500,Hong Kong health/beauty
+385,759 Store,Hong Kong,Hong Kong,Discount Store,500,Hong Kong discount
+386,Ztore,Hong Kong,Hong Kong,E-commerce,300,Hong Kong online grocery
+387,HKTVmall,Hong Kong,Hong Kong,E-commerce,1000,Hong Kong e-commerce
+388,Wing On,Hong Kong,Hong Kong,Department Store,800,Hong Kong department store
+389,Lane Crawford,Hong Kong,Hong Kong,Department Store,1200,Hong Kong luxury
+390,City'super,Hong Kong,Hong Kong,Premium Supermarket,400,Hong Kong premium grocery
+391,Cold Storage Singapore,Singapore,Singapore,Supermarket,1500,Singapore supermarket
+392,FairPrice,Singapore,Singapore,Supermarket,4000,Singapore cooperative
+393,Sheng Siong,Singapore,Singapore,Supermarket,1200,Singapore supermarket
+394,Giant Singapore,Singapore,Singapore,Hypermarket,1000,Singapore hypermarket
+395,Don Don Donki Singapore,Singapore,Singapore,Discount Store,500,Singapore discount
+396,Mustafa Centre,Singapore,Singapore,Department Store,600,Singapore retail
+397,BHG,Singapore,Singapore,Department Store,400,Singapore department store
+398,Metro Holdings,Singapore,Singapore,Department Store,500,Singapore department store
+399,Tangs,Singapore,Singapore,Department Store,300,Singapore department store
+400,Robinsons Singapore,Singapore,Singapore,Department Store,200,Singapore department store
+401,Max Fashion (Landmark),UAE/India,Dubai/Multiple,Apparel,2000,Value fashion retailer
+402,Centrepoint (Landmark),UAE,Dubai,Department Store,1500,Middle East department store
+403,Home Centre (Landmark),UAE,Dubai,Home Goods,1000,Middle East home retailer
+404,Splash (Landmark),UAE,Dubai,Fashion,800,Middle East fashion
+405,Babyshop (Landmark),UAE,Dubai,Children's,500,Middle East children's
+406,Lifestyle (Landmark),UAE,Dubai,Department Store,600,Middle East lifestyle
+407,Emax,UAE,Dubai,Electronics,1200,Middle East electronics
+408,Jumbo Electronics,UAE,Dubai,Electronics,800,Middle East electronics
+409,Sharaf DG,UAE,Dubai,Electronics,1000,Middle East electronics
+410,Jashanmal,UAE,Dubai,Diversified Retail,400,Middle East retailer
+411,Celcom,Canada,Toronto,Wireless/Retail,8000,Canadian telecom retail
+412,Rogers,Canada,Toronto,Wireless/Retail,7500,Canadian telecom retail
+413,Bell Canada,Canada,Montreal,Wireless/Retail,7000,Canadian telecom retail
+414,Telus,Canada,Vancouver,Wireless/Retail,6000,Canadian telecom retail
+415,Canadian Tire,Canada,Toronto,Auto/Home,12000,Canadian retailer
+416,Rona,Canada,Boucherville,Home Improvement,3000,Canadian home improvement
+417,Home Hardware,Canada,St. Jacobs,Home Improvement,6000,Canadian dealer-owned
+418,Staples Canada,Canada,Richmond Hill,Office Supplies,2000,Canadian office retailer
+419,Dollarama,Canada,Montreal,Discount Store,4500,Canadian dollar store
+420,Giant Tiger,Canada,Ottawa,Discount Store,1500,Canadian discount
+421,Simons,Canada,Quebec City,Department Store,500,Canadian department store
+422,Hudson's Bay,Canada,Toronto,Department Store,4000,Canadian department store
+423,Holt Renfrew,Canada,Toronto,Luxury Department,800,Canadian luxury
+424,Sport Chek,Canada,Calgary,Sporting Goods,1500,Canadian sports retailer
+425,Atmosphere,Canada,Calgary,Outdoor,500,Canadian outdoor retailer
+426,Mark's,Canada,Calgary,Workwear/Casual,1000,Canadian apparel
+427,L'Equipeur,Canada,Montreal,Workwear,400,Canadian workwear
+428,SportChek,Canada,Calgary,Sporting Goods,1200,Canadian sports
+429,National Sports,Canada,Calgary,Sporting Goods,300,Canadian sports
+430,Winners,Canada,Toronto,Off-price,2500,Canadian off-price (TJX)
+431,HomeSense,Canada,Toronto,Home Goods,800,Canadian home (TJX)
+432,Marshalls Canada,Canada,Toronto,Off-price,600,Canadian off-price (TJX)
+433,Leon's,Canada,Toronto,Furniture,800,Canadian furniture
+434,The Brick,Canada,Edmonton,Furniture/Electronics,1200,Canadian furniture
+435,Sleep Country,Canada,Toronto,Mattress,500,Canadian mattress
+436,Best Buy Canada,Canada,Burnaby,Electronics,2500,Canadian electronics
+437,The Source,Canada,Barrie,Electronics,500,Canadian electronics
+438,London Drugs,Canada,Richmond,Drug Store,2000,Canadian drug store
+439,Rexall,Canada,Toronto,Drug Store,2500,Canadian pharmacy
+440,Jean Coutu,Canada,Montreal,Drug Store,1500,Canadian pharmacy
+441,Pharmaprix,Canada,Montreal,Drug Store,2000,Canadian pharmacy (Loblaw)
+442,Shoppers Drug Mart,Canada,Toronto,Drug Store,8000,Canadian pharmacy (Loblaw)
+443,Loblaws,Canada,Toronto,Supermarket,15000,Canadian supermarket
+444,Real Canadian Superstore,Canada,Calgary,Supermarket,8000,Canadian supermarket
+445,No Frills,Canada,Toronto,Discount Grocery,4000,Canadian discount grocery
+446,Fortinos,Canada,Ancaster,Supermarket,1500,Canadian supermarket
+447,Zehrs,Canada,Kitchener,Supermarket,1000,Canadian supermarket
+448,Maxi,Canada,Montreal,Discount Grocery,2000,Canadian discount grocery
+449,Provigo,Canada,Montreal,Supermarket,1500,Canadian supermarket
+450,Atlantic Superstore,Canada,Stellarton,Supermarket,1000,Canadian supermarket
+451,Save-On-Foods,Canada,Langley,Supermarket,5000,Canadian supermarket
+452,Overwaitea,Canada,Vancouver,Supermarket,2000,Canadian supermarket
+453,Urban Fare,Canada,Vancouver,Premium Grocery,300,Canadian premium
+454,IGA Canada,Canada,Montreal,Supermarket,4000,Canadian supermarket
+455,Foodland Canada,Canada,Stellarton,Supermarket,1000,Canadian supermarket
+456,Farm Boy,Canada,Ottawa,Specialty Grocery,800,Canadian specialty
+457,Whole Foods Canada,Canada,Toronto,Organic Grocery,600,Canadian organic (Amazon)
+458,Longo's,Canada,Toronto,Supermarket,1200,Canadian supermarket
+459,Pusateri's,Canada,Toronto,Specialty Grocery,200,Canadian gourmet
+460,McEwan,Canada,Toronto,Specialty Grocery,100,Canadian gourmet
+461,Eataly Toronto,Canada,Toronto,Specialty Food,100,Italian food retailer
+462,T&T Supermarket,Canada,Richmond,Asian Supermarket,1500,Canadian Asian grocery
+463,H Mart Canada,Canada,Toronto,Asian Supermarket,500,Korean grocery in Canada
+464,Galleria Supermarket,Canada,Toronto,Korean Supermarket,300,Canadian Korean grocery
+465,Nations Fresh Foods,Canada,Toronto,Ethnic Supermarket,400,Canadian ethnic grocery
+466,Oceans Fresh Food Market,Canada,Brampton,Ethnic Supermarket,200,Canadian ethnic grocery
+467,Freshco,Canada,Toronto,Discount Grocery,1500,Canadian discount (Sobeys)
+468,Safeway Canada,Canada,Calgary,Supermarket,4000,Canadian supermarket (Sobeys)
+469,Thrifty Foods,Canada,Victoria,Supermarket,800,Canadian supermarket
+470,Federated Co-operatives,Canada,Saskatoon,Cooperative Retail,8000,Canadian co-op
+471,Calgary Co-op,Canada,Calgary,Cooperative,1200,Canadian co-op
+472,Co-op Atlantic,Canada,Moncton,Cooperative,1000,Canadian co-op
+473,Mountain Equipment Co-op,Canada,Vancouver,Outdoor Retail,400,Canadian outdoor co-op
+474,Simons,Canada,Quebec City,Department Store,600,Canadian fashion
+475,Aritzia,Canada,Vancouver,Women's Fashion,1500,Canadian fashion
+476,Roots Canada,Canada,Toronto,Apparel,300,Canadian apparel
+477,Arc'teryx,Canada,North Vancouver,Outdoor Apparel,800,Canadian outdoor
+478,Canada Goose,Canada,Toronto,Outerwear,1200,Canadian outerwear
+479,Lululemon,Canada,Vancouver,Athletic Apparel,8000,Canadian athletic (global)
+480,Aldo Group,Canada,Montreal,Footwear,1500,Canadian footwear
+481,Bentley,Canada,Edmonton,Accessories,200,Canadian accessories
+482,Bootlegger,Canada,Vancouver,Fashion,100,Canadian fashion
+483,Reitmans,Canada,Montreal,Women's Fashion,500,Canadian women's apparel
+484,Penningtons,Canada,Montreal,Plus-size Fashion,300,Canadian plus-size
+485,Ardene,Canada,Montreal,Young Women's,400,Canadian young fashion
+486,Garage,Canada,Montreal,Teen Fashion,300,Canadian teen fashion
+487,Dynamite,Canada,Montreal,Women's Fashion,250,Canadian fashion
+488,Le Chateau,Canada,Montreal,Fashion,200,Canadian fashion (closed most stores)
+489,RW&CO,Canada,Montreal,Fashion,150,Canadian fashion
+490,Suzy Shier,Canada,Montreal,Women's Fashion,100,Canadian women's
+491,Cleo,Canada,Montreal,Women's Fashion,80,Canadian women's
+492,Addition Elle,Canada,Montreal,Plus-size,100,Canadian plus-size
+493,Sports Experts,Canada,Montreal,Sporting Goods,1000,Canadian sports
+494,Atmosphere,Canada,Montreal,Outdoor,300,Canadian outdoor
+495,Sail,Canada,Montreal,Outdoor,400,Canadian outdoor
+496,Bass Pro Shops Canada,Canada,Various,Outdoor,600,Canadian outdoor
+497,Cabela's Canada,Canada,Various,Outdoor,400,Canadian outdoor (Bass Pro)
+498,Decathlon Canada,Canada,Various,Sporting Goods,200,French sports retailer in Canada
+499,Running Room,Canada,Edmonton,Running,100,Canadian running specialty
+500,Sporting Life,Canada,Toronto,Sports/Fashion,200,Canadian sports lifestyle
