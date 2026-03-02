@@ -1,6 +1,6 @@
 from pathlib import Path
 
-folder_path = Path(r"clay_company_100/")
+folder_path = Path(r"clay_company/")
 
 files = [file.name for file in folder_path.iterdir() if file.is_file()]
 
