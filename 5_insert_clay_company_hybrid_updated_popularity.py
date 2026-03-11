@@ -52,31 +52,31 @@ DB_CONFIG = {
     "port":     os.getenv("DB_PORT",     5433),
 }
 
-# CSV_ALL_FILES = [
-#     'Accounting.csv', 'Biotechnology.csv', 'Biotechnology_Research.csv',
-#     'Brokerages.csv', 'Business_Consulting_and_Services.csv',
-#     'Business_Intelligence_Platforms.csv', 'Capital_Markets.csv',
-#     'Commercial_Real_Estate.csv', 'Data_Security Software Products.csv',
-#     'Data_Security_Software_Products.csv', 'E-Learning_Providers.csv',
-#     'Education_Management.csv', 'Freight_and_Package_Transportation.csv',
-#     'Higher_Education.csv', 'Hospitals.csv', 'Hospitals_and_Health_Care.csv',
-#     'Human_Resources_Services.csv', 'Import_and_Export.csv',
-#     'Information_Technology.csv', 'Internet_Marketplace_Platforms.csv',
-#     'Investment_Banking.csv', 'Investment_Management.csv', 'Market_Research.csv',
-#     'Media_&_Telecommunications.csv', 'Medical_Devices.csv',
-#     'Operations_Consulting.csv', 'OutsourcingOffshoring.csv',
-#     'Outsourcing_and_Offshoring.csv', 'Pharmaceutical_Manufacturing.csv',
-#     'Public_Relations.csv', 'Real_Estate.csv', 'Staffing_and_Recruiting.csv',
-#     'Strategic_Management_Services.csv', 'Technology_Information_and_Media.csv',
-#     'Telecommunications.csv', 'Telecommunications_Carriers.csv',
-#     'Transportation_Logistics_Supply.csv', 'Warehousing_and_Storage.csv',
-# ]
-
 CSV_ALL_FILES = [
-    # 'Advertising_Services.csv',
-    # 'Banking.csv', 'Computer_and_Network_Security.csv', 
-    'Data_Infrastructure_and_Analytics.csv', 'Financial_Services.csv', 'Insurance.csv', 'IT_Services_and_IT_Consulting.csv', 'Marketing_Services.csv', 'retail.csv', 'software_development.csv', 'Venture_Capital_and_Private_Equity.csv'
+    'Accounting.csv', 'Biotechnology.csv', 'Biotechnology_Research.csv',
+    'Brokerages.csv', 'Business_Consulting_and_Services.csv',
+    'Business_Intelligence_Platforms.csv', 'Capital_Markets.csv',
+    'Commercial_Real_Estate.csv', 'Data_Security Software Products.csv',
+    'Data_Security_Software_Products.csv', 'E-Learning_Providers.csv',
+    'Education_Management.csv', 'Freight_and_Package_Transportation.csv',
+    'Higher_Education.csv', 'Hospitals.csv', 'Hospitals_and_Health_Care.csv',
+    'Human_Resources_Services.csv', 'Import_and_Export.csv',
+    'Information_Technology.csv', 'Internet_Marketplace_Platforms.csv',
+    'Investment_Banking.csv', 'Investment_Management.csv', 'Market_Research.csv',
+    'Media_&_Telecommunications.csv', 'Medical_Devices.csv',
+    'Operations_Consulting.csv', 'OutsourcingOffshoring.csv',
+    'Outsourcing_and_Offshoring.csv', 'Pharmaceutical_Manufacturing.csv',
+    'Public_Relations.csv', 'Real_Estate.csv', 'Staffing_and_Recruiting.csv',
+    'Strategic_Management_Services.csv', 'Technology_Information_and_Media.csv',
+    'Telecommunications.csv', 'Telecommunications_Carriers.csv',
+    'Transportation_Logistics_Supply.csv', 'Warehousing_and_Storage.csv',
 ]
+
+# CSV_ALL_FILES = [
+#     # 'Advertising_Services.csv',
+#     # 'Banking.csv', 'Computer_and_Network_Security.csv', 
+#     'Data_Infrastructure_and_Analytics.csv', 'Financial_Services.csv', 'Insurance.csv', 'IT_Services_and_IT_Consulting.csv', 'Marketing_Services.csv', 'retail.csv', 'software_development.csv', 'Venture_Capital_and_Private_Equity.csv'
+# ]
 
 USER_ID               = os.getenv("USER_ID", "632d6b76-0d5a-4074-b7e8-552b2a2aeb3d")
 BATCH_SIZE            = 50
@@ -421,7 +421,7 @@ def upsert_batch(cur, user_id: str,
 # =============================================================================
 
 def process_file(file: str):
-    path = f"clay_company/{file}"
+    path = f"clay_company_50/{file}"
     print(f"\n{'='*65}\n🚀  {file}\n{'='*65}")
 
     companies = read_csv_data(path)
