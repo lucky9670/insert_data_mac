@@ -83,7 +83,10 @@ DB_CONFIG = {
 #     'Data_Infrastructure_and_Analytics.csv', 'Financial_Services.csv', 'Insurance.csv', 'IT_Services_and_IT_Consulting.csv', 'Marketing_Services.csv', 'retail.csv', 'software_development.csv', 'Venture_Capital_and_Private_Equity.csv'
 # ]
 
-CSV_ALL_FILES = ['Automation Machinery.csv', 'Building Construction.csv', 'Building Materials.csv', 'Construction.csv', 'Equipment Rental Services.csv', 'Industrial Automation.csv', 'Industrial Machinery Manufacturing.csv', 'Machinery Manufacturing.csv', 'Manufacturing.csv', 'Online and Mail Order Retail.csv', 'Specialty Trade Contractors.csv', 'Wholesale Building Materials.csv', 'Wholesale Chemical and Allied.csv', 'Wholesale Computer Equipment.csv', 'Wholesale Drugs and Sundries.csv', 'Wholesale Import and Export.csv', 'Wholesale Machinery.csv', 'Wholesale.csv']
+CSV_ALL_FILES = [
+    # 'Automation Machinery.csv', 'Building Construction.csv', 'Building Materials.csv', 'Construction.csv', 'Equipment Rental Services.csv', 'Industrial Automation.csv', 'Industrial Machinery Manufacturing.csv', 'Machinery Manufacturing.csv', 'Manufacturing.csv', 'Online and Mail Order Retail.csv', 'Specialty Trade Contractors.csv', 'Wholesale Building Materials.csv', 
+    'Wholesale Chemical and Allied.csv', 'Wholesale Computer Equipment.csv', 'Wholesale Drugs and Sundries.csv', 'Wholesale Import and Export.csv', 'Wholesale Machinery.csv', 'Wholesale.csv'
+]
 
 USER_ID               = os.getenv("USER_ID", "632d6b76-0d5a-4074-b7e8-552b2a2aeb3d")
 BATCH_SIZE            = 50
